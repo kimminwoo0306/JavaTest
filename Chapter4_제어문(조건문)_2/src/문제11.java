@@ -17,7 +17,8 @@ public class 문제11 {
 		{
 			sum+=i;
 		}
-		System.out.println("1~"+num+"까지의 합: "+sum);	
+		System.out.println("1~"+num+"까지의 합: "+sum);
+		//test
 	}
 
 }
