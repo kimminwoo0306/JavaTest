@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class 문자열배열_2 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[] books= {

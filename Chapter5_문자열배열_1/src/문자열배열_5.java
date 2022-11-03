@@ -1,6 +1,6 @@
 // 객체지향프로그램
 // OOP
-import java.util.Scanner;
+import java.util.Scanner; 
 public class 문자열배열_5 {
 
 	public static void main(String[] args) {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class 문자열배열_4 {
 
 	public static void main(String[] args) {

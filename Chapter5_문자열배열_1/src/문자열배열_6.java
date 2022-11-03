@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 /*
  *     1. 페이지를 10개씩 나눠서 출력
